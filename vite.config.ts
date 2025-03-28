@@ -22,6 +22,6 @@ export default defineConfig({
     tsconfigPaths(),
   ],
   server: {
-    port: 3000, // 🔥 Thêm dòng này để đổi cổng thành 3000
+    port: 3000,
   },
 });
